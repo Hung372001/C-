@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\Bai30.exe
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\Bai30.deps.json
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\Bai30.runtimeconfig.json
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\Bai30.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\ref\Bai30.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai30\bin\Debug\net6.0\Bai30.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\ref\Bai30.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai30\obj\Debug\net6.0\Bai30.genruntimeconfig.cache

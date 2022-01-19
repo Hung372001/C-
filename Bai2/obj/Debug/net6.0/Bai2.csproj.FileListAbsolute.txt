@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\Bai2.exe
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\Bai2.deps.json
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\Bai2.runtimeconfig.json
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\Bai2.dll
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\ref\Bai2.dll
+C:\Users\Admin\Desktop\C-\Bai2\bin\Debug\net6.0\Bai2.pdb
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.dll
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\ref\Bai2.dll
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.pdb
+C:\Users\Admin\Desktop\C-\Bai2\obj\Debug\net6.0\Bai2.genruntimeconfig.cache

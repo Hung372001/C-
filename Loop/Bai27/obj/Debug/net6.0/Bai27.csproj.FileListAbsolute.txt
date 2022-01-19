@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\Bai27.exe
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\Bai27.deps.json
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\Bai27.runtimeconfig.json
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\Bai27.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\ref\Bai27.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai27\bin\Debug\net6.0\Bai27.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\ref\Bai27.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai27\obj\Debug\net6.0\Bai27.genruntimeconfig.cache

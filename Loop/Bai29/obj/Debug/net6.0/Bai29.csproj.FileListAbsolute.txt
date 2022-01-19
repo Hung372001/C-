@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\Bai29.exe
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\Bai29.deps.json
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\Bai29.runtimeconfig.json
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\Bai29.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\ref\Bai29.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai29\bin\Debug\net6.0\Bai29.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\ref\Bai29.dll
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.pdb
+C:\Users\Admin\Desktop\C-\Loop\Bai29\obj\Debug\net6.0\Bai29.genruntimeconfig.cache
